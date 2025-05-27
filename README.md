@@ -234,7 +234,7 @@ Once the Tdarr Server is running, install **Tdarr Node** (a separate listing). T
 - **v5:** Better quality, simpler flow
 - **v6:** Added a retry value if file is still to big
 
-**JSON Script:** [av1_flow_v6.json](av1_flow_v5.json)
+**JSON Script:** [av1_flow_v6.json](av1_flow_v6.json)
 
 <img width="1124" alt="image" src="https://github.com/user-attachments/assets/c543f77c-5b1e-4b35-89d4-ab85444dde15" />
 
